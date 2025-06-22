@@ -3,6 +3,7 @@ Student management application with JAVA SWING Mysql
 
 ## Features
 - Role Based Login
+- CRUD operation
 ## Teacher Login
 -  Add,delete,update Attendance
 -  Delete,Enter,Update Marks as per Subject
