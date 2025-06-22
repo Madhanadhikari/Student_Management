@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dbc5d30c-6b16-46e4-bca4-c402f73c3cfa)# Student_Management
+# Student_Management
 Student management application with JAVA SWING Mysql
 
 ## Features
@@ -48,7 +48,6 @@ MariaDB [php]> desc marks;
 ![image](https://github.com/user-attachments/assets/d763928f-6580-4c89-b00e-b87d9f5e53d9)
 ![image](https://github.com/user-attachments/assets/60f14759-5cab-4aa8-8623-ad186947ad73)
 ![image](https://github.com/user-attachments/assets/44c4ba2f-c8ec-410b-974d-9ccaf1704d6d)
-
-
+![image](https://github.com/user-attachments/assets/dbc5d30c-6b16-46e4-bca4-c402f73c3cfa)
 
 
